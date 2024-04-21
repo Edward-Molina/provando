@@ -1,0 +1,101 @@
+.clasPadre{
+    display: flex;
+    height: 100px;
+    width: 75%;
+    background-color: white;
+    position: relative;
+    align-items: center;
+    margin-left: 190px;
+    margin-top: -45%;
+
+}
+.clas-HijoDerecho{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: left;
+
+}
+
+.clas-HijoIzquierdo{
+    display: flex;
+    width: 45%;
+    justify-content: right;
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+.clase-Tabla{
+
+    background-color: #eb4245;
+    margin-right: 2000px;
+    margin-top: 5%;
+    background-color: white;
+    position: absolute;
+    align-items: center;
+    margin-left: 190px;
+    width: 30%;
+    height: 320px;
+}
+.boton{
+    background-color: #9fd133;
+    color: #fff;
+    border: none;
+    padding: 15px 25px
+
+
+}
+.precio{
+    background-color: #eb4245;
+    width: 25%;
+    color: #fff;
+    padding: 15px 25px
+    
+    
+}
+.boton-1 {
+    background-color: #9fd133;
+    color: #fff;
+    border: none;
+    padding: 15px 25px
+    
+
+}
+
+.alinear-paises{
+    display: flex;
+    margin-top: 435px;
+    margin-left: 190px;
+    gap: 30px;
+    
+
+}
+
+.alinear-paises img {
+    height: 160px;
+    width: 100%;
+}
+.Titulos {
+    background-color: #9fd133;
+    color: #fff;
+    border: none;
+    display: flex;
+    padding: 10%
+}
+.acto-2 {
+    background-color: #9fd133;
+    color: #fff;
+    border: none;
+    display: flex;
+    padding: 4%;
+    align-items: center;
+}
+.entero-3{
+    margin-top: 5%;
+}
+
+
+
